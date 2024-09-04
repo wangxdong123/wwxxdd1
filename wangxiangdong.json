@@ -4,6 +4,12 @@
    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724906148757/fan.txt;md5;ca2df82cc6006f2ecfa065159243d880",
  "sites": [
 
+
+
+
+{"key":"非凡","name":"📺非凡（采）","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key": "量子资源", "name": "📺量子2","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playurl": "json:https://tvmvip.com/lz2.php?url=", "searchable": 1,"quickSearch": 1,"filterable": 0,"categories": [ "国产剧","国产动漫","泰国剧", "台湾剧", "香港剧","欧美剧","韩国剧","日本剧", "动漫","体育","剧情片","动作片", "爱情片","喜剧片"]},
+{"key":"量子","name":"📺量子（采）","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key": "豆豆","name": "🔎豆瓣","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0 },
 {"key": "360","name": "💯360","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,
 "changeable": 1,"categories": [ "国产剧", "动作片","战争片","恐怖片","喜剧片","爱情片","科幻片",
@@ -61,12 +67,13 @@
  {"key": "企鹅xp","name": "⚽鹅鹅","type": 3,"api": "csp_XPath","style": {"type": "list"},"searchable": 0,"quickSearch": 0,
 "changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json" },
  {"key": "虎牙","name": "🐯虎牙","type": 3,"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style": {  "type": "rect",  "ratio": 1.755},"playerType": "1","searchable": 0,"quickSearch": 0,"changeable": 0    },
-{ "key": "搜神记","name": "🎯一起","type": 3,"api": "csp_YQK","searchable": 1,"changeable": 1,
-"quickSearch": 1,"ext": { "url": "https://txapi1.dbdd1.com"},"jar": "./jar/Tong.jar"},
- {"key": "何以直连","name": "🎯何以","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,
-"quickSearch": 1,"jar": "./jar/Tong.jar"},
- { "key": "皮皮虾影视", "name": "🎯皮皮", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {        "主页url": "http://www.ppxys.vip/",     "数组": "",     "标题": "title=\"&&\"",     "副标题": "class=\"module-info-item\">&&</div>",     "链接": "",     "简介": "",     "线路数组": "class=\"module-tab-item tab-item\"&&</div>",     "线路标题": "<span>&&</span>",    
-  "搜索url": "http://www.ppxys.vip/vodsearch.html?wd={wd}",     "分类": "电影$2#电视剧$1#动漫$3#综艺$4",     "分类url": "http://www.ppxys.vip/s/{cateId}.html",       "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/" }    ,"jar":"./jar/chuanshuo.jar"},
+{"key":"冬瓜2","name":"冬瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1,"jarr":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar"},
+{"key": "js_电影先生","name":"先生","type": 3,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"},
+{"key":"zy_火狐", "name":"火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"],"jarr":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar"},	
+{"key": "啾啾影视","name": "啾啾","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1,"jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
+{ "key": "搜神记","name": "🎯一起","type": 3,"api": "csp_YQK","searchable": 1,"changeable": 1,"quickSearch": 1,"ext": { "url": "https://txapi1.dbdd1.com"},"jar": "./jar/Tong.jar"},
+ {"key": "何以直连","name": "🎯何以","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"jar": "./jar/Tong.jar"},
+ { "key": "皮皮虾影视", "name": "🎯皮皮", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {        "主页url": "http://www.ppxys.vip/",     "数组": "",     "标题": "title=\"&&\"",     "副标题": "class=\"module-info-item\">&&</div>",     "链接": "",     "简介": "",     "线路数组": "class=\"module-tab-item tab-item\"&&</div>",     "线路标题": "<span>&&</span>",      "搜索url": "http://www.ppxys.vip/vodsearch.html?wd={wd}",     "分类": "电影$2#电视剧$1#动漫$3#综艺$4",     "分类url": "http://www.ppxys.vip/s/{cateId}.html",       "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/" }    ,"jar":"./jar/chuanshuo.jar"},
 { "key": "麦菜", "name": "🎯麦菜", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {     "请求头": "手机",     "主页url": "https://wap.maicai.la/",     "数组": "class=\"stui-vodlist clearfix\">&&</div>",     "简介": "剧情简介</h3>&&</span>",     "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",     "线路标题": "&&",     "播放数组": "class=\"stui-content__playlist clearfix\"&&</ul>",     "播放列表": "<li&&</li>[不包含:дрр滈凊]",     "播放标题": ">&&</a",     "播放链接": "href=\"&&\"",     "搜索数组": "stui-vodlist__thumb lazyload\"&&</a",     "搜索图片": "data-original=\"&&\"",     "搜索标题": "title=\"&&\"",     "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",     "搜索链接": "href=\"&&\"",     "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",     "搜索url": "https://wap.maicai.la/search/{wd}.html",     "分类": "电影$dy#电视剧$dsj#动漫$dm#综艺$zy#短剧$dj",     "分类url": "https://wap.maicai.la/{cateId}_{catePg}.html" }    ,"jar":"./jar/chuanshuo.jar"},
  { "key": "海兔", "name": "海兔", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {    "请求头": "手机",     "主页url": "https://www.haituu.tv/",      "数组": "class=\"module-item\">&&</div>",     "图片": "src=\"&&\"",     "标题": "title=\"&&\"",     "链接": "",    "简介" :"class=\"video-info-item video-info-content vod_content\">&&</span>", "线路数组": "class=\"module-tab-item tab-item\"&&</div>",     "线路标题": "<span>&&</small>[替换:</span><small>>>(共]+集)",     
   "搜索url": "https://www.haituu.tv/vodsearch/{wd}-------------.html",       "分类": "电影$1#电视剧$2#动漫$4#综艺$3",     "分类url": "https://www.haituu.tv/vodshow/{cateId}--------{catePg}---.html",       "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/" }    ,"jar":"./jar/chuanshuo.jar"},
@@ -169,9 +176,6 @@
 
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives": [
- {"name": "live","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-"playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo": "https://live.fanmingming.com/tv/{name}.png" },
- {"name": "TV","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-"playerType": 1 },
+ {"name": "live","type": 0,"url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
+"playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
  {"name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1 }]}
