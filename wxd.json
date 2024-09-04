@@ -1,11 +1,8 @@
 {
   "urls": [
-{  "url": "https://gitee.com/wxd123458899/wwxxdd/raw/master/wangxiangdong.json",  "name": "王家影视（TE线）"},
-{  "url": "https://10418.kstore.space/wangxd/wangxiangdong.json",  "name": "王家影视（KS简）"},
 {  "url": "https://cdn05042023.gitlink.org.cn/wangxd/wwxxdd/raw/branch/master/wangxiangdong.json",  "name": "王家影视（CD线）"},
 {  "url": "https://ghproxy.net/https://github.com/wangxdong123/wwxxdd1/blob/main/wangxiangdong.json",  "name": "王家影视（GU）"},
-{  "url": "https://codeberg.org/wangxd/wwxxdd1/raw/branch/main/wangxiangdong.json",  "name": "王家影视（CO简）"},
-{  "url": "https://git.acwing.com/wxd1231/wwxxdd1/-/raw/main/wangxiangdong.json",  "name": "王家影视（GI线）"},
+{  "url": "https://10418.kstore.space/wangxd/wangxiangdong.json",  "name": "王家影视（KS简）"},
 {  "url": "http://饭太硬.com/tv",  "name": " 吃饭"},
 {  "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",  "name": " 天威"},
 {  "url": "http://ttkx.live:55/天天开心",  "name": " 开心"},
