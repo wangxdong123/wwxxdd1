@@ -1,12 +1,15 @@
 {"wallpaper": "https://深色壁纸.xxooo.cf/",
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730501203549/fan.txt;md5;a889982d5efe39d65ff9f81559fa2f87",
 "sites":[
+
+
 { "key": "豆豆", "name": "豆瓣", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
- { "key": "真心影视", "name": "💯爱腾优", "type": 3, "api": "csp_WebGZ", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar":"./jar/xiaos.jar"},
+ { "key": "真心影视", "name": "💯爱腾优芒", "type": 3, "api": "csp_WebGZ", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar":"./jar/xiaos.jar"},
 {"key":"hipy_js_荐片[优]","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./lib/荐片[优].js"},
 {"key": "迅雷吧","name": "🧲迅雷",  "type": 3, "api": "csp_Xunlei8",  "searchable": 1, "quickSearch": 1,   "filterable": 1,"jar":"./jar/xiaos.jar" },
 {"key": "新6V","name": "🧲新6V","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
 {"key": "Mp4电影","name": "🧲Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/xiaos.jar"},
+ { "key": "瓜子2", "name": "💯老王", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "./lib/drpy2.min.js", "ext":"./lib/嗑瓜子影视.js"},
  {"key": "南瓜","name": "💯南瓜","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1    },
 { "key": "耐看", "name": "💯耐看", "type": 3, "api": "csp_WebNK", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"./jar/xiaos.jar"},
 {"key":"天天影视","name":"💯天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/jiany.jar"},
@@ -25,6 +28,8 @@
 {"key":"alllive","name":"⚽一播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 {"key": "310js","name": "⚽ 310","type": 3,"api": "./lib/drpy2.min.js","ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style": {  "type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"hipy_js_360吧[球]","name":"⚽360吧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./lib/360吧[球].js"},
+{ "key": "crttys", "name": "👑天天", "type": 3, "api": "csp_TTian", "playerType": 2, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==", "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/tiantian+kexing+huohuo.jar"},
+{ "key": "crkxys", "name": "👑科星", "type": 3, "api": "csp_Xdai", "playerType": 2, "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=", "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/tiantian+kexing+huohuo.jar"},
 { "key": "立播影视",  "name": "🏳️立播",  "type": 3,  "api": "csp_Libvio",  "searchable": 1,  "filterable": 1,  "changeable": 1,  "ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt",      "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://libvio.link"  } ,"jar":"./jar/xiaos.jar"},
 {"key": "饺子影视","name": "🏳️饺子","type": 3,"api": "csp_Jiaozi","searchable": 1,"quickSearch": 1,"filterable": 1 ,"jar":"./jar/xiaos.jar"   },
  { "key": "忍者影视", "name": "🏳️忍者", "type": 3, "api": "csp_AppRZ", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar":"./jar/xiaos.jar"},
